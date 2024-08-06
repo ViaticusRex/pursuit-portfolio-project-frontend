@@ -1,0 +1,13 @@
+.card_container{
+    display: flex;
+    width: 300px;
+    height: 250px;
+    border: solid 1px black;
+
+}
+
+.card_image{
+    width: 20px;
+    height: 100px;
+    object-fit: cover;
+}

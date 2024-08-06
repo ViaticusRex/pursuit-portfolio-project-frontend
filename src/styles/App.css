@@ -39,7 +39,8 @@ header {
 
 main {
     grid-area: main;
-    background-color: yellow;
+    /* background-color: yellow; */
+
 }
 
 .sidebar_right {
